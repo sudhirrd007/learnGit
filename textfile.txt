@@ -1,1 +1,2 @@
-Hello there I am fine
+We are changind data from ubuntu cmd
+
