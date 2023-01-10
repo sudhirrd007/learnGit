@@ -1,2 +1,2 @@
 We are changind data from ubuntu cmd
-
+I have adde this line in file
